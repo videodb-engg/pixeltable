@@ -130,6 +130,7 @@
                       "sdk/latest/runwayml",
                       "sdk/latest/together",
                       "sdk/latest/twelvelabs",
+                      "sdk/latest/videodb",
                       "sdk/latest/vllm",
                       "sdk/latest/vlmrun",
                       "sdk/latest/vlmrun_gateway",

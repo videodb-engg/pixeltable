@@ -505,6 +505,11 @@
           <outline text="udf|pixeltable.functions.twelvelabs.async_embed" />
           <outline text="udf|pixeltable.functions.twelvelabs.async_embed_asset" />
         </outline>
+        <outline text="module|pixeltable.functions.videodb">
+          <outline text="udf|pixeltable.functions.videodb.upload" />
+          <outline text="udf|pixeltable.functions.videodb.transcribe" />
+          <outline text="udf|pixeltable.functions.videodb.describe_scenes" />
+        </outline>
         <outline text="module|pixeltable.functions.vllm">
           <outline text="udf|pixeltable.functions.vllm.chat_completions" />
           <outline text="udf|pixeltable.functions.vllm.generate" />
@@ -539,6 +544,8 @@
           <outline text="udf|pixeltable.functions.yolox.yolo_to_coco" />
         </outline>
         <outline text="class|pixeltable.functions.twelvelabs.EmbeddingResult" />
+        <outline text="class|pixeltable.functions.videodb.SceneDescription" />
+        <outline text="class|pixeltable.functions.videodb.TranscriptSegment" />
         <outline text="class|pixeltable.functions.whisper.WhisperSegment" />
         <outline text="class|pixeltable.functions.whisper.WhisperTranscription" />
         <outline text="class|pixeltable.functions.whisper.WhisperWord" />

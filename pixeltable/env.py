@@ -958,6 +958,7 @@ class Env:
         self.__register_package('transformers')
         self.__register_package('twelvelabs')
         self.__register_package('uvicorn')
+        self.__register_package('videodb')
         self.__register_package('vllm')
         self.__register_package('vlmrun')
         self.__register_package('voyageai')

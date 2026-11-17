@@ -54,7 +54,7 @@ jobs:
           - ""
           - "lancedb pylance mcp opencv-python scenedetect"
           - "anthropic fireworks-ai google-genai groq jina mistralai openai replicate together"
-          - "fal-client runwayml twelvelabs voyageai"
+          - "fal-client runwayml twelvelabs videodb voyageai"
           - "huggingface-hub llama-cpp-python openai-whisper"
           - "datasets openpyxl tiktoken pymupdf mistune spacy 'markitdown[pptx,docx,xlsx]'"
           - "pixeltable-yolox"

@@ -1079,6 +1079,7 @@ KNOWN_CONFIG_OPTIONS: dict[str, dict[str, Any]] = {
         'timeout': 'Seconds to wait for asynchronous TwelveLabs operations to complete (default: 600)',
     },
     'veo': {'rate_limits': 'Per-model rate limits for Veo API requests'},
+    'videodb': {'api_key': 'VideoDB API key', 'rate_limit': 'Rate limit for VideoDB API requests'},
     'vlmrun': {
         'api_key': 'VLM Run API key',
         'rate_limit': 'Rate limit for VLM Run API requests',
